@@ -1,0 +1,3 @@
+﻿  _disk.cpp
+e:\c++\operationsystemdesign\operationsystemdesign\vs_filesys\vs_filesys\_disk.cpp(56): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+  vs_fileSys.vcxproj -> E:\c++\OperationSystemDesign\OperationSystemDesign\vs_fileSys\Debug\vs_fileSys.exe
